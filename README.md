@@ -13,7 +13,8 @@ And following libraries are required
 Most of the above mentioned libraries are in-built in python.
 
 ## Usage
-The `wikiScrapper.py` script takes two arguments: Starting Article URL and Epochs (how many articles to extract starting from the starter URL).
+The `wikiScrapper.py` script takes two arguments: Starting Article URL and Epochs (how many articles to extract starting from the starter URL). <br>
+For example, `python wikiScrapper.py https://en.wikipedia.org/wiki/Keanu_Reeves 20` starts the crawling from Keanu's Wikipedia Article and will extract out 20 more articles, by selecting random links within Keanu's article and so on. <br>
 For more help, type `python wikiScrapper.py -h` for more help regarding arguments.
 
 ## Output
