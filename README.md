@@ -9,7 +9,7 @@ And following libraries are required
 - os
 - random
 - re
-- argparse
+- argparse <br>
 Most of the above mentioned libraries are in-built in python.
 
 ## Usage
