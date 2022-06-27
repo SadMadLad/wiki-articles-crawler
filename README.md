@@ -18,7 +18,8 @@ For more help, type `python wikiScrapper.py -h` for more help regarding argument
 
 ## Output
 Once the extraction/crawling has been done, the data of articles will be stored in `Articles` folder, with a following structure:
-`
+<br>
+```
 Articles/
    0/
     articleLink.txt
@@ -31,4 +32,4 @@ Articles/
     bodyLinks.txt
     .....
     ...
-`
+```
